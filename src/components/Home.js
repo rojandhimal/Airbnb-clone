@@ -2,6 +2,7 @@ import React from "react";
 import "./Home.css";
 import Banner from "./Banner";
 import Card from "./Card";
+import Footer from "./Footer";
 
 function Home() {
   return (
@@ -37,7 +38,7 @@ function Home() {
           title="Penthouse in London"
           description="Enjoy the amazing sights of London with this stunning penthouse"
           price="£350/night"
-        />  
+        />
         <Card
           src="https://media.nomadicmatt.com/2018/apartment.jpg"
           title="1 Bedroom apartment"

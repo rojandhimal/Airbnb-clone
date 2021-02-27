@@ -5,7 +5,7 @@ import LanguageIcon from "@material-ui/icons/Language";
 import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
 import { Avatar } from "@material-ui/core";
 
-function Heade() {
+function Header() {
   return (
     <div className="header">
       <img
@@ -28,4 +28,4 @@ function Heade() {
   );
 }
 
-export default Heade;
+export default Header;
